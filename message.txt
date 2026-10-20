@@ -1,1 +1,2 @@
-welcome to main development branch.
+Welcome to the Main Development Branch
+Feature: Login functionality added
